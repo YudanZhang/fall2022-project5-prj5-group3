@@ -15,7 +15,5 @@ Term: Fall 2022
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) 
 
-Yudan Zhang (yz4346): Created the framework of the code, researched and impletmented webscrapper to get job information and made the comparison of texts based on cosin similarity calculation.		
-Zeya Ahmad(za2291): Helped to improve the code, tried ........ (Zeya please write more, i'm not sure what to write T^T). Gave the presentation.
-Weijia Wang (ww2589): Helped to improve the code. Created presentation slides and organized GitHub repo.
+Yudan Zhang created the framework of the code, researched and impletmented webscrapper to get job information and made the comparison of texts based on cosin similarity calculation. Zeya Ahmad helped to improve the code, tried ........ (Zeya please write more, i'm not sure what to write T^T); gave the presentation. Weijia Wang helped to improve the code, created presentation slides and organized GitHub repo.
 
