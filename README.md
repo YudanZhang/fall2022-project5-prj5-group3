@@ -13,17 +13,9 @@ Term: Fall 2022
 + Project summary: Resume matching is pertty important in job searching. Our goal is to design an engine that could scan your resume and match the information in it to the jobs in the job boards, and recommend the most suitable job link for you to apply based on the similarity of the resume and job description. This project consists of 3 parts: Resume information extracting using PyPDF2.PdfFileReader package, Website information scrapping using BeautifulSoup package, and Information matching by calculating cosin similarity between two texts. At the end we are able to provide users with a list of jobs that are most recommended to them based on similarity score.
 
 	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: ([default](doc/a_note_on_contributions.md)) 
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+Yudan Zhang (yz4346): Created the framework of the code, researched and impletmented webscrapper to get job information and made the comparison of texts based on cosin similarity calculation.		
+Zeya Ahmad(za2291): Helped to improve the code, tried ........ (Zeya please write more, i'm not sure what to write T^T). Gave the presentation.
+Weijia Wang (ww2589): Helped to improve the code. Created presentation slides and organized GitHub repo.
 
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/a
-```
-
-Please see each subfolder for a README file.
