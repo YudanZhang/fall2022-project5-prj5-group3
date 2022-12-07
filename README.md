@@ -12,9 +12,9 @@ Term: Fall 2022
 	
 + Project summary: Resume matching is pertty important in job searching. Our goal is to design an engine that extracts key informations from user's resume and recommends the most suitable jobs from LinkedIn for user to apply based on the similarity of the resume and job description. This project consists of 3 parts: Resume information extraction using PyPDF2.PdfFileReader package, Website information scrapping using BeautifulSoup package, and Information matching by calculating cosin similarity between two texts. At the end we are able to provide users with a list of jobs that are most recommended to them based on similarity score. 
 
-Inputs from user are: resume file, job title, desired location for job search and the number of pages to scrape. 
++ Inputs from user are: resume file, job title, desired location for job and the number of pages to scrape. 
 
-** Contribution statement**: ([default](doc/a_note_on_contributions.md)) 
+** Contribution statement**: 
 
 + Yudan Zhang created the code framework for this project, especially researched and implemented the webscrapper that captures job information based on user inputs, and the recommendation part based on the similarity between the resume extraction and job description from online. 
 
