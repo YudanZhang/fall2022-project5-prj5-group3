@@ -18,7 +18,7 @@ Term: Fall 2022
 
 + Yudan Zhang created the code framework for this project, especially researched and implemented the webscrapper that captures job information based on user inputs, and the recommendation part based on the similarity between the resume extraction and job description from online. 
 
-+ Zeya Ahmad helped to improve the code, tried ........ (Zeya please write more, i'm not sure what to write and what to not write T^T); gave the presentation. 
++ Zeya Ahmad helped to improve the code in the extraction from resume & job description, modified the PPT and gave the presentation. 
 
 + Weijia Wang helped to improve the code, created presentation slides and organized GitHub repo.
 
