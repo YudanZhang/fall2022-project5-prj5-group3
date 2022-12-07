@@ -23,7 +23,7 @@ proj/
 ├── data/
 ├── doc/
 ├── figs/
-└── output/
+└── output/a
 ```
 
 Please see each subfolder for a README file.
